@@ -1,4 +1,4 @@
-Fastlane 
+Fastlane [Working in progress]
 
 Primeiros passos para automatização do processo de distribuição.
 
