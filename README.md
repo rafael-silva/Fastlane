@@ -1,4 +1,4 @@
-A segunda coisa a se fazer é checar se sua versão de Ruby é 2.0 ou superior a insto
+A segunda coisa a se fazer é checar se sua versão de Ruby é 2.0 ou superior a insto.\n
 ``` > Ex: ruby -v```
 
 
