@@ -3,6 +3,7 @@ A segunda coisa a se fazer é checar se sua versão de Ruby é 2.0 ou superior a
 
 
 A terceira coisa e checar se o Xcode CTL esta instalado na sua maquina.\n
+
 ```Ex: xcode-select --install```
 
 - Caso você recebe um erro: “command line tools are already installed, use "Software Update" to
@@ -16,7 +17,7 @@ Ao termino destes 3 passos iniciais você pode executar o comando de instalaçã
   seu usuário e senha.
 
 
-Terminado esta etapa da instalação do fastlane vamos para o terminal, agora iremos acessar a pasta <br>do projeto onde iremos realizar a automatização dos processos.
+Terminado esta etapa da instalação do fastlane vamos para o terminal, agora iremos acessar a pasta <br>do projeto onde iremos realizar a automatização dos processos.\n
 
 ```Ex: cd /Documents/Estudos/Marvel```
 
