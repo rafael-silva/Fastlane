@@ -3,9 +3,10 @@
 Primeiros passos para automatização do processo de distribuição.
 
 A primeira coisa a se fazer se checar se sua versão do **OS X é 10.9** ou superior. 
+
 ```Ex: macOS High Sierra v: 10.13.60```
 
-A segunda coisa a se fazer é checar se sua versão de Ruby é 2.0 ou superior a insto.
+A segunda coisa a se fazer é checar se sua versão de Ruby é **2.0** ou superior.
 
 ```Ex: ruby -v```
 
