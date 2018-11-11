@@ -12,7 +12,6 @@ e muito a vida e por isso devemos mantê-lo atualizado.
 
 ```Ex: ruby -v```
 
-
 A terceira coisa é checar se o Xcode command line tools está instalado na sua máquina.
 
 ```Ex: xcode-select --install```
@@ -24,8 +23,7 @@ Ao término desses 3 passos iniciais você pode executar o comando de instalaç�
 
 ```Ex: sudo gem install -n /usr/local/bin fastlane --verbose```
 
-        - Nesse momento você terá que autorizar a instalação, então logo que necessário confirme com seu usuário e senha.
-
+- Nesse momento você terá que autorizar a instalação, então logo que necessário confirme com seu usuário e senha.
 
 Terminado esta etapa da instalação do fastlane vamos para o terminal, agora iremos acessar a pasta do
 projeto onde iremos realizar a automatização dos processos.
