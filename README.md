@@ -50,9 +50,9 @@ ver se as credenciais do app já existem no iTunes Connect.
 Quando a etapa inicial de instalação do fastlane terminar abra sua pasta do projeto, nela você
 irá ver uma nova pasta chamada fastlane com três arquivos dentro
 
-        Appfile: Responsável por armazenar seu Apple ID e o Bundle identificar
-        Deliverfile: Responsável pelas configurações de submissão para app para store
-        Fastfile: Responsável por gerenciar as lanes criadas
+        - Appfile: Responsável por armazenar seu Apple ID e o Bundle identificar
+        - Deliverfile: Responsável pelas configurações de submissão para app para store
+        - Fastfile: Responsável por gerenciar as lanes criadas
 
 Dado que tudo tenha ocorrido com sucesso e os arquivos Appfile, Deliverfile e Fastfile, tenha sido criados
 você também verá um pasta chamada **/metadata** que conterá alguns alguns arquivos de texto, os quais são
@@ -60,19 +60,19 @@ responsáveis pela apresentação de informações relevantes na App Store.
 
 
         - primary_category
-        - Ex: Entretenimento
+            Ex: Entretenimento
         - primary_first_sub_category
-        - Ex: MZGenre.Racing
+            Ex: MZGenre.Racing
         - primary_second_sub_category
-        - Opcional
+            Opcional
         - secondary_category
-        - Opcional
+            Opcional
         - secondary_first_sub_category
-        - Opcional
+            Opcional
         - secondary_second_sub_category
-        - Opcional
+            Opcional
         - copyright
-        - Ex: Copyright (c) 2018 Rafael Silva Ltda
+            Ex: Copyright (c) 2018 Rafael Silva Ltda
 
 
 Além destes arquivos de textos que contemplam informações sobre categoria, subcategoria, copyright etc, faz necessário
@@ -100,20 +100,20 @@ E para finalizar as configurações básicas do fastlane acesse **metadata/en-US
 referentes a informações de metadados do aplicativo exibidas na App Store como Nome, palavras chave, url de apoio entre outros.    
 
         - name
-        - Ex: Marvel
+            Ex: Marvel
         - description
-        - Ex: MZGenre.Racing
+            Ex: MZGenre.Racing
         - keywords
-        - Marvel, herois, 
+            Marvel, herois, 
         - marketing_url
-        - Opcional
+            Opcional
         - privacy_url
-        - http://marvel.com    
+            http://marvel.com    
         - promotional_text
-        - Opcional
+            Opcional
         - release_notes
-        - Ex: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Ex: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         - subtitle
-        - Opcional
+            Opcional
         - support_url
-        - http://marvel.com
+            http://marvel.com
