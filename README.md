@@ -52,9 +52,9 @@ ver se as credenciais do app já existem no iTunes Connect.
 Quando a etapa inicial de instalação do fastlane terminar abra sua pasta do projeto, nela você
 irá ver uma nova pasta chamada fastlane com três arquivos dentro
 
-        - Appfile: Responsável por armazenar seu Apple ID e o Bundle identificar
-        - Deliverfile: Responsável pelas configurações de submissão para app para store
-        - Fastfile: Responsável por gerenciar as lanes criadas
+       * Appfile: Responsável por armazenar seu Apple ID e o Bundle identificar
+       * Deliverfile: Responsável pelas configurações de submissão para app para store
+       * Fastfile: Responsável por gerenciar as lanes criadas
 
 Dado que tudo tenha ocorrido com sucesso e os arquivos Appfile, Deliverfile e Fastfile, tenha sido criados
 você também verá um pasta chamada **/metadata** que conterá alguns alguns arquivos de texto, os quais são
