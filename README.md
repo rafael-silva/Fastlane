@@ -39,15 +39,15 @@ Logo que estiver na pasta do projeto execute o seguinte comando:
 - Caso seja a primeira vez que você rode **fastlane init** será realizada uma validação para
 ver se as credenciais do app já existem no iTunes Connect.
 
-        - As possíveis resposta que você pode obter ao executar este comando são: 
+- As possíveis resposta que você pode obter ao executar este comando são: 
 
-Este identificador de aplicativo não existe no iTunes Connect, ele será criado para você.
-Este identificador ainda não existe no Portal Apple Developer, ele será criado para você.
-Por favor, confirme os valores acima (y / n)
+        Este identificador de aplicativo não existe no iTunes Connect, ele será criado para você.
+        Este identificador ainda não existe no Portal Apple Developer, ele será criado para você.
+        Por favor, confirme os valores acima (y / n)
 
-Ou
+        Ou
 
-Parece que o APP_NAME já foi utilizado por outra pessoa, por favor insira um nome alternativo:
+        Parece que o APP_NAME já foi utilizado por outra pessoa, por favor insira um nome alternativo:
 
 Quando a etapa inicial de instalação do fastlane terminar abra sua pasta do projeto, nela você
 irá ver uma nova pasta chamada fastlane com três arquivos dentro
