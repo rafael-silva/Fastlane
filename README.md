@@ -81,21 +81,21 @@ a criação de um outro arquivo que deve ser criado na pasta raiz /metadata, ess
 - Essas configurações garantem que seu app tenha a classificação etária correta para ser disponibilizado na App Store. 
 
         - itunes_ratin_config
-        {
-        "CARTOON_FANTASY_VIOLENCE": 0,
-        "REALISTIC_VIOLENCE": 0,
-        "PROLONGED_GRAPHIC_SADISTIC_REALISTIC_VIOLENCE": 0,
-        "PROFANITY_CRUDE_HUMOR": 0,
-        "MATURE_SUGGESTIVE": 0,
-        "HORROR": 0,
-        "MEDICAL_TREATMENT_INFO": 0,
-        "ALCOHOL_TOBACCO_DRUGS": 0,
-        "GAMBLING": 0,
-        "SEXUAL_CONTENT_NUDITY": 0,
-        "GRAPHIC_SEXUAL_CONTENT_NUDITY": 0,
-        "UNRESTRICTED_WEB_ACCESS": 0,
-        "GAMBLING_CONTESTS": 0
-        }
+            {
+            "CARTOON_FANTASY_VIOLENCE": 0,
+            "REALISTIC_VIOLENCE": 0,
+            "PROLONGED_GRAPHIC_SADISTIC_REALISTIC_VIOLENCE": 0,
+            "PROFANITY_CRUDE_HUMOR": 0,
+            "MATURE_SUGGESTIVE": 0,
+            "HORROR": 0,
+            "MEDICAL_TREATMENT_INFO": 0,
+            "ALCOHOL_TOBACCO_DRUGS": 0,
+            "GAMBLING": 0,
+            "SEXUAL_CONTENT_NUDITY": 0,
+            "GRAPHIC_SEXUAL_CONTENT_NUDITY": 0,
+            "UNRESTRICTED_WEB_ACCESS": 0,
+            "GAMBLING_CONTESTS": 0
+            }
 
         
 E para finalizar as configurações básicas do fastlane acesse **metadata/en-US** nesta pasta você encontra os arquivos 
