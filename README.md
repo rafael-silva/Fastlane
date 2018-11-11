@@ -26,7 +26,7 @@ Ao término desses 3 passos iniciais você pode executar o comando de instalaç�
 - Nesse momento, você terá que autorizar a instalação, então logo que necessário confirme com seu usuário e senha.
 
 Terminado esta etapa da instalação do fastlane vamos para o terminal, agora iremos acessar a pasta do
-projeto onde iremos realizar a automatização dos processos.
+projeto onde iremos realizar configuração dos arquivos para automatização dos processos.
 
 ```Ex: cd /Documents/Estudos/Marvel```
 
