@@ -76,7 +76,7 @@ responsáveis pela apresentação de informações relevantes na App Store.
 
 
 Além destes arquivos de textos que contemplam informações sobre categoria, subcategoria, copyright etc, faz necessário
-a criação de um outro arquivo que deve ser criado na raiz /metadata, esse arquivo será um .json chamado itunes_ratin_config.
+a criação de um outro arquivo que deve ser criado na pasta raiz /metadata, esse arquivo será um .json chamado itunes_ratin_config.
 
         - itunes_ratin_config
         {
@@ -95,7 +95,8 @@ a criação de um outro arquivo que deve ser criado na raiz /metadata, esse arqu
         "GAMBLING_CONTESTS": 0
         }
 
-Essas configurações garantem que seu app tenha a classificação etária correta para ser disponibilizado na App Store. 
+    Essas configurações garantem que seu app tenha a classificação etária correta para ser disponibilizado na App Store. 
+        
 E para finalizar as configurações básicas do fastlane acesse **metadata/en-US** nesta pasta você encontra os arquivos 
 referentes a informações de metadados do aplicativo exibidas na App Store como Nome, palavras chave, url de apoio entre outros.    
 
